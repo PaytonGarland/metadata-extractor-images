@@ -3,8 +3,8 @@ TYPE: BMP
 
 [BMP Header - 0xfffffffe] Bitmap type = Color Icon
 [BMP Header - 0xffffffff] Header Size = 6
-[BMP Header - 0x0002] Image Width = 32
-[BMP Header - 0x0001] Image Height = 64
+[BMP Header - 0x0002] Image Width = 0
+[BMP Header - 0x0001] Image Height = 0
 [BMP Header - 0x0003] Planes = 1
 [BMP Header - 0x0004] Bits Per Pixel = 1
 [BMP Header - 0x0005] Compression = None
